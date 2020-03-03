@@ -74,19 +74,13 @@ img{
     margin-top: 60px;
   }
   /* blocco lezioni */
-  #lezioni .row > .left, #lezioni .row > .right {
-    display: block;
-    width: 100%;
-    float: none;
-  }
-
-  /* blocco steps */
+  #lezioni .row > .left, #lezioni .row > .right,
   #steps .row > .left,
   #steps .row > .central,
-  #steps .row > .right{
+  #steps .row > .right {
     display: block;
     width: 100%;
-    padding-top: 40px;
+    padding-top:30px;
     float: none;
   }
 
