@@ -70,7 +70,7 @@ img{
 @media screen and (max-width:419px){
 
   .row {
-    width: 100%;
+    max-width: 100%;
     margin-top: 60px;
   }
   /* blocco lezioni */
